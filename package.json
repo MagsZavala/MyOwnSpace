@@ -1,0 +1,35 @@
+{
+    "name": "MyOwnSpace",
+    "version": "1.0.0",
+    "description": "A social network API using MongoDB, Express.js, and Mongoose.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MagsZavala/MyOwnSpace.git"
+    },
+    "keywords": [
+        "social",
+        "network",
+        "api",
+        "mongodb",
+        "express",
+        "mongoose"
+    ],
+    "author": "Magali",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MagsZavala/MyOwnSpace.git"
+    },
+    "homepage": "https://github.com/yourusername/social-network-api#readme",
+    "dependencies": {
+        "express": "^4.19.2",
+        "mongoose": "^6.13.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
